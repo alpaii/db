@@ -3,3 +3,4 @@
 
 # MySQL 데이터
 mysql-data/
+add_sort_order_column.sql
